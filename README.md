@@ -1,2 +1,2 @@
 # Inspirational-Quotes-Machine
-A Random Quote Machine With Quotes For Inspiration and Motivation To Keep Going
+A random quote machine with quotes For inspiration and motivation to keep going.
